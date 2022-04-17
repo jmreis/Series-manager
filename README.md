@@ -4,9 +4,9 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/Series-manager)
 ![GitHub language count](https://img.shields.io/github/languages/count/jmreis/Series-manager)
-![GitHub forks](https://img.shields.io/github/forks/jmreis/Series-manager)
+<!--![GitHub forks](https://img.shields.io/github/forks/jmreis/Series-manager)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/Series-manager)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/Series-manager)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/Series-manager)-->
 
 
 > Aplicação CLI utilizando dotnet, que gerencia series.
